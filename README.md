@@ -1,29 +1,52 @@
-## Your Name
+## **Daniel Chun Tao Lau**
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+
+ [Projects](##projects) |[Skills](##Skills) | [Experience](##experience) | [Education](##education) | [Interests](#interests)
+
+I am a Junior Full Stack developer from a Product Management background passionate in bringing concepts from ideation into MVPs using lean and agile methodologies. I am an entrepreneur at heart and enjoy working in start-up environments. Currently looking for Junior development roles.
+
+**Tech stack:** Ruby, Javascript, RSpec
+
+## Projects
 
 ## Skills
 
-#### This Skill
+#### Communication
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Throughout my career I have often had to communicate to technical and non-technical stakeholders. This was demonstrated through translating ideas and requirements to developers, writing user stories, tests and specifications, user testing with customers and liaising with business stakeholders to capture requirements.
 
-- Experience
-- Achievements
-- Evidence
 
-#### Another Skill
+#### Product Management
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I was gained experience in working in a start-up environments practicing agile development and larger organisations adopting a mixture of waterfall and scrum methodologies.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+Whilst working at FoodIt ltd we saw a need for a point of sale app that runs on android and iOS tablets. I have successfully took business the business idea to an MVP product as well as iterating existing product offerings according to customer feedback. This required working with a lot of project stakeholders to understand, priotise build a product that users need.
+
+#### Teamwork and Leadership
+
+I have experience in working in a diverse team of developers(in-house and offshore), designers, customer success and product managers.
+
+During my short time running Seely & Lau, I had the responsibility for running a small team of developers and designers to deliver the requirements set out by clients.
+
+#### Fast Learner
+
+I pick up new ideas and concepts relatively quickly by reading up and asking a lot of questions.
+
+Makers academy was an intense 12 week studies.
+
+This was also demonstrated in my first job as a product manager in ASQPOS ltd. The business saw a demand for a Point of Sale system that took online orders from restaurant clients. I was tasked in taking this concept into reality with no prior project/ product management and software development knowledge. I overcame this by asking more experienced team members, reading up and talking to customers frequently. The result of the steep learning curve was a workable MVP product that was used by real customers and a hunger to learn more about technology.
+
+The skill was furthered when I took the step to start a partnership business where I had to pick up new business skills and knowledge in a short space of time.
+
+#### Additional Skills
+
+- Fluent cantonese speaker
+- Kanban & Scrum methodologies
+- A/B Testing using Monetate
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (May 2018 to September 2018)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,17 +57,42 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Loughborough University (Sept 2011 to Oct 2012)
+*MSc Information Technology(Distinction)*
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### Loughborough University (September 2007 to July 2010)
+*BSc Information Management and Business Studies (2:1)*
 
-#### Any other qualifications
+#### Hall Cross School, Doncaster
+
+- **A Levels**: Economics (B), Physical Education (B), Business Studies (C), General Studies (C)
+- **AS Level**: Biology (D)
+- **GCSEs**: 8A, 3B, including Maths, English and ICT
+
+#### Scrum Alliance (September 2017)
+*Certified Scrum Master*
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**JP Boden Holdings Ltd** (July 2017 to October 2017)    
+*Junior Product Manager*  
+Responsible for the search and findability roadmap of the Boden e-commerce site.
+
+**FOODit Ltd** (May 2016 to March 2017)   
+*Junior Product Manager*  
+Taking on responsibility for the continuous usability and interface optimisation across all FOODit platforms including EPOS order manager, restaurant websites with online ordering solutions, backoffice and CentralDish- an online marketplace for restaurants and takeaways, offered end to end process with integrated payment and online ordering.
+
+**Seely & Lau** (July 2015 to May 2016)   
+*Co-Founder*  
+Co-founder of Seely & Lau - a partnership business offering Web and Mobile Application Development.
+
+**ASQPOS Ltd** (Aug 2015 to May)  
+*Account Manager/ Product Manager*  
+Building an web ordering and point of sales platform for independent restaurants.
+
+## Interests, Activities and Achievements
+- Interest and follower of Eric Ries Lean start up and product development
+- I am a keen badminton player; I joined the University badminton club and took regular badminton training sessions to improve my skills. I have also achieved UKCC level 1 coaching certificate
+- I was in a team reaching the semi-final of the Loughborough University business plan competition with a Music Social Network Platform
+- I enjoying going to the gym to keep my fitness level up
+- Self taught guitarist
