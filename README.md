@@ -1,13 +1,19 @@
 ## **Daniel Chun Tao Lau**
 
+ [Projects](#projects) |[Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
 
- [Projects](##projects) |[Skills](##Skills) | [Experience](##experience) | [Education](##education) | [Interests](#interests)
+I am a Junior Full Stack developer from a Product Management background passionate in bringing concepts from ideation into MVPs using lean and agile methodologies. I am an entrepreneur at heart and enjoy working with new technology. Currently looking for Junior development roles.
 
-I am a Junior Full Stack developer from a Product Management background passionate in bringing concepts from ideation into MVPs using lean and agile methodologies. I am an entrepreneur at heart and enjoy working in start-up environments. Currently looking for Junior development roles.
-
-**Tech stack:** Ruby, Javascript, RSpec
+**Tech stack:** Ruby, Rspec, Sinatra, Postgresql, Rails, Javascript, Jasmine, REACT
 
 ## Projects
+
+| Project | Summary | Timeframe | Technologies |
+|----------|----------|----------|----------|
+|[TicketChain](https://github.com/jeff1108/blockchain-ticketing-app) | A Blockchain ticketing app that stores user transactions into our simple [blockchain](https://github.com/bilfar/blockchain-backend-ruby) implemented in Ruby| 10 Days |Ruby, Sinatra, RSPEC, Capybara Cypress , REACT, Enzyme, Jest|
+|[Bank Tech Test](https://github.com/dct-lau17/bank-tech-test) | A simple command line application that allows users to create an account to make bank deposits, withdrawals and print out statements.    | 3 days | Ruby, Rspec and SimpleCov for testing. |
+|[AceBook](https://github.com/dct-lau17/acebook-rails-keeping-it-rails) | A group project to produce a Facebook clone. | 10 days | Ruby, Rails, Rspec, Capybara, PostgreSQL |
+
 
 ## Skills
 
@@ -18,9 +24,11 @@ Throughout my career I have often had to communicate to technical and non-techni
 
 #### Product Management
 
-I was gained experience in working in a start-up environments practicing agile development and larger organisations adopting a mixture of waterfall and scrum methodologies.
+I was gained experience in working in a start-up environments practicing agile development and larger organisations adopting a mixture of waterfall and agile methodologies.
 
-Whilst working at FoodIt ltd we saw a need for a point of sale app that runs on android and iOS tablets. I have successfully took business the business idea to an MVP product as well as iterating existing product offerings according to customer feedback. This required working with a lot of project stakeholders to understand, priotise build a product that users need.
+Whilst working at FoodIt ltd we saw a need for a point of sale app that runs on android and iOS tablets. I have successfully taken the business idea to an MVP product as well as iterating existing product offerings according to customer feedback. This required working with a lot of project stakeholders to understand, prioritise build a product that users need.
+
+I was able to exercise this skill in group projects during my short time at Makers Academy.
 
 #### Teamwork and Leadership
 
@@ -28,11 +36,9 @@ I have experience in working in a diverse team of developers(in-house and offsho
 
 During my short time running Seely & Lau, I had the responsibility for running a small team of developers and designers to deliver the requirements set out by clients.
 
-#### Fast Learner
+#### Fast and Independent Learner
 
 I pick up new ideas and concepts relatively quickly by reading up and asking a lot of questions.
-
-Makers academy was an intense 12 week studies.
 
 This was also demonstrated in my first job as a product manager in ASQPOS ltd. The business saw a demand for a Point of Sale system that took online orders from restaurant clients. I was tasked in taking this concept into reality with no prior project/ product management and software development knowledge. I overcame this by asking more experienced team members, reading up and talking to customers frequently. The result of the steep learning curve was a workable MVP product that was used by real customers and a hunger to learn more about technology.
 
@@ -46,12 +52,8 @@ The skill was furthered when I took the step to start a partnership business whe
 
 ## Education
 
-#### Makers Academy (May 2018 to September 2018)
-
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
+#### Makers Academy (May 2018 to August 2018)
+A 16-week intensive web development bootcamp
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
