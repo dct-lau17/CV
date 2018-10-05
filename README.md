@@ -4,15 +4,16 @@
 
 I am a Junior Full Stack developer from a Product Management background passionate in bringing concepts from ideation into MVPs using lean and agile methodologies. I am an entrepreneur at heart and enjoy working with new technology. Currently looking for Junior development roles.
 
-**Tech stack:** Ruby, Rspec, Sinatra, Postgresql, Rails, Javascript, Jasmine, REACT
+**Tech stack:** Ruby, Rspec, Sinatra, Postgresql, Rails, Javascript, Jasmine, REACT, Jest, Enzyme
 
 ## Projects
 
 | Project | Summary | Timeframe | Technologies |
 |----------|----------|----------|----------|
-|[TicketChain](https://github.com/jeff1108/blockchain-ticketing-app) | A Blockchain ticketing app that stores user transactions into our simple [blockchain](https://github.com/bilfar/blockchain-backend-ruby) implemented in Ruby| 10 Days |Ruby, Sinatra, RSPEC, Capybara Cypress , REACT, Enzyme, Jest|
+|[TicketChain](https://github.com/dct-lau17/blockchain-ticketing-app-1) | A Blockchain ticketing app that stores user transactions into our simple [blockchain](https://github.com/bilfar/blockchain-backend-ruby) implemented in Ruby| 10 Days |Ruby, Sinatra, RSPEC, Capybara Cypress , REACT, Enzyme, Jest|
 |[Bank Tech Test](https://github.com/dct-lau17/bank-tech-test) | A simple command line application that allows users to create an account to make bank deposits, withdrawals and print out statements.    | 3 days | Ruby, Rspec and SimpleCov for testing. |
 |[AceBook](https://github.com/dct-lau17/acebook-rails-keeping-it-rails) | A group project to produce a Facebook clone. | 10 days | Ruby, Rails, Rspec, Capybara, PostgreSQL |
+|[Ten Green Bottles Kata](https://github.com/dct-lau17/ten-green-bottles-kata) | A solution to a simple kata challenge using TDD approach | 1 days | Jasmine, Vanilla JavaScript |
 
 
 ## Skills
@@ -74,6 +75,9 @@ A 16-week intensive web development bootcamp
 #### Scrum Alliance (September 2017)
 *Certified Scrum Master*
 
+#### The State University of New York & University at Buffalo (September 2018)
+[Blockchain Basics](https://www.coursera.org/account/accomplishments/certificate/TL5VBHKZ9UWW)
+
 ## Experience
 
 **JP Boden Holdings Ltd** (July 2017 to October 2017)    
@@ -94,6 +98,7 @@ Building an web ordering and point of sales platform for independent restaurants
 
 ## Interests, Activities and Achievements
 - Interest and follower of Eric Ries Lean start up and product development
+- Strong Interest in the blockchain space and cryptocurrencies
 - I am a keen badminton player; I joined the University badminton club and took regular badminton training sessions to improve my skills. I have also achieved UKCC level 1 coaching certificate
 - I was in a team reaching the semi-final of the Loughborough University business plan competition with a Music Social Network Platform
 - I enjoying going to the gym to keep my fitness level up
