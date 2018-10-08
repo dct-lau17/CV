@@ -10,10 +10,10 @@ I am a Junior Full Stack developer from a Product Management background passiona
 
 | Project | Summary | Timeframe | Technologies |
 |----------|----------|----------|----------|
-|[TicketChain](https://github.com/dct-lau17/blockchain-ticketing-app-1) | A Blockchain ticketing app that stores user transactions into our simple [blockchain](https://github.com/bilfar/blockchain-backend-ruby) implemented in Ruby| 10 Days |Ruby, Sinatra, RSPEC, Capybara Cypress , REACT, Enzyme, Jest|
+|[TicketChain](https://github.com/dct-lau17/blockchain-ticketing-app-1) | A Blockchain ticketing app that stores user transactions into our simple [blockchain](https://github.com/bilfar/blockchain-backend-ruby) implemented in Ruby| 10 days |Ruby, Sinatra, RSPEC, Capybara Cypress , REACT, Enzyme, Jest|
 |[Bank Tech Test](https://github.com/dct-lau17/bank-tech-test) | A simple command line application that allows users to create an account to make bank deposits, withdrawals and print out statements.    | 3 days | Ruby, Rspec and SimpleCov for testing. |
 |[AceBook](https://github.com/dct-lau17/acebook-rails-keeping-it-rails) | A group project to produce a Facebook clone. | 10 days | Ruby, Rails, Rspec, Capybara, PostgreSQL |
-|[Ten Green Bottles Kata](https://github.com/dct-lau17/ten-green-bottles-kata) | A solution to a simple kata challenge using TDD approach | 1 days | Jasmine, Vanilla JavaScript |
+|[Ten Green Bottles Kata](https://github.com/dct-lau17/ten-green-bottles-kata) | A solution to a simple kata challenge using TDD approach | 1 day | Jasmine, Vanilla JavaScript |
 
 
 ## Skills
